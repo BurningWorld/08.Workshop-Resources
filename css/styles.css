@@ -1,0 +1,9 @@
+body{
+    background-color: #f7f7f9;
+}
+#navigation {
+	opacity: 0.7;
+}
+#projects{
+    background-image: url("../images/background.jpg");
+}
